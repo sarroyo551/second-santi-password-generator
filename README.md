@@ -4,4 +4,4 @@ In this project I used Javascript to create a password generator. To open up the
 
 ![JS-ScreenShot](./images/passwordGenerator.png)
 
-See the live site [here]('https://sarroyo551.github.io/second-santi-password-generator/')
+See the live site https://sarroyo551.github.io/second-santi-password-generator/
